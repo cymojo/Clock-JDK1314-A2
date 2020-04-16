@@ -1,0 +1,8 @@
+.my-time-control {
+    -base-color: blue;
+    -fx-background-color: white;
+}
+
+.my-time-control .text-input{
+    -fx-background-color: rgb(44, 255, 0);
+}
